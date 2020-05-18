@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    text-align: center;
+    color: rgb(116,174,155);
+    font-family: 'Merriweather', serif;
+  
+}
+
+h1{
+    margin: 0 auto 0 auto;
+    width: 50%;
+    font-size: 3em;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+   
+}
+
+.middle-container{
+   
+
+}
+
+
+.bottom-container{
+
+    
+}
+
+
+
+
+hr{
+    border-style: dotted none none; /*When three values are specified, the first style applies to the top, the second to the left and right, the third to the bottom.*/
+    border-color: #dddddd;
+    border-width: 5px;
+    width: 5%;
+    
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+h3 {
+    color: rgb(116,174,155);
+}
+
+.img-container{
+    border-radius: 100%;
+}
