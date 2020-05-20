@@ -5,21 +5,27 @@ body{
     font-family: 'Merriweather', serif;
   
 }
+p{
+    font-size: 1em;
 
+}
 h1{
     margin: 0 auto 0 auto;
     width: 50%;
-    font-size: 3em;
+    font-size: 3rem;
     font-family: 'Sacramento', cursive;
+    color: rgb(116,174,155);
 }
 
 h2{
 
     font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
 }
 
 h3{
     font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
 }
 
 .top-container{
@@ -67,10 +73,8 @@ hr{
     bottom: 300px;
 }
 
-h3 {
-    color: rgb(116,174,155);
-}
+
 
 .img-container{
-    border-radius: 100%;
+    width:20%;
 }
