@@ -62,7 +62,8 @@ h3{
 
 
 .bottom-container{
-
+    background-color: #66BFBF;
+    padding: 50px 0px 20px;
 
 }
 
@@ -81,6 +82,14 @@ hr{
     width: 5%;*/
 
 }
+a{
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+}
+a:hover {
+    color: #EAF6F6;
+}
 
 .pro {
     text-decoration: underline;
@@ -90,10 +99,19 @@ hr{
     width: 30%;
     margin: auto;
 }
+.contact-me{
+    
+}
 
-.contact-me {
+.contact-message {
     width: 40%;
     margin: 40px auto 60px;
+}
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
 }
 
 .top-cloud {
@@ -109,13 +127,13 @@ hr{
 }
 
 .img-container1{
-    width:25%;
+    width:23%;
     float: left;
     margin-right: 30px;
 }
 
 .img-container2{
-    width:25%;
+    width:23%;
     float: right;
     margin-left: 30px;
 }
@@ -130,7 +148,7 @@ hr{
     -moz-border-radius: 8px;
     border-radius: 8px;
     color: #FFFFFF;
-    font-family: Arial;
+    font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     font-weight: 100;
     padding: 14px;
